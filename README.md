@@ -48,6 +48,10 @@ I plan to continue creating innovative projects like Meteostat to refine my skil
 - **Description:** A mobile app that helps users quickly choose a date location by offering a selection of places they’ve pre-added. It simplifies the decision-making process, so users can avoid endless discussions about where to go.
 - **Goal:** To make it publicly available, providing an easy and fun way for people to choose the perfect spot for their date without the stress of debating options.
 
+### ⛵ **BlueCrew**
+- **Description**: A mobile app that connects sailboat owners to plan trips and sail together for added safety and camaraderie. It also allows users to offer paid spots on their boats, enabling others to join their journey and experience sailing, creating a seamless way to share adventures on the sea.
+- **Goal**: To provide a platform where sailboat owners can sail confidently in groups while also offering unique opportunities for individuals to enjoy sailing experiences by joining boat trips for a fee.
+
 ---
 
 ## 🎉 More About Me
