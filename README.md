@@ -35,8 +35,8 @@ I want to write applications that are **efficient** and scalable but also practi
 ## ⚙️ Featured Project
 
 ### 🌥️ **Meteostat**
-**Description:** Meteostat is a full-stack weather app designed to provide real-time weather data with a seamless user experience.
-**Goal:** To make it public as an educational resource and demonstrate my ability to build end-to-end applications.
+- **Description:** Meteostat is a full-stack weather app designed to provide real-time weather data with a seamless user experience.
+- **Goal:** To make it public as an educational resource and demonstrate my ability to build end-to-end applications.
 
 > *Technologies Used:* Django/DRF, React.js/Vite, Tailwind CSS, Recharts.
 
