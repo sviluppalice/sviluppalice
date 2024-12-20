@@ -66,6 +66,7 @@ When I'm not coding, I love:
 - 🎶 Listening to music
 - 🎥 Watching movies and series
 - 📚 Reading fantasy books
+- 😫 Thinking about more apps to develop
 
 ---
 
