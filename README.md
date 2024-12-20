@@ -40,7 +40,11 @@ I want to write applications that are **efficient** and scalable but also practi
 
 > *Technologies Used:* Django/DRF, React.js/Vite, Tailwind CSS, Recharts.
 
-I plan to continue creating innovative projects like Meteostat to refine my skills and contribute to the developer community.
+### ⛵ **BlueCrew**
+- **Description**: A mobile app that connects sailboat owners to plan trips and sail together for added safety and camaraderie. It also allows users to offer paid spots on their boats, enabling others to join their journey and experience sailing, creating a seamless way to share adventures on the sea.
+- **Goal**: To provide a platform where sailboat owners can sail confidently in groups while also offering unique opportunities for individuals to enjoy sailing experiences by joining boat trips for a fee.
+  
+> *Technologies Used:* Django/DRF, React.js/Vite, Tailwind CSS,
 
 ## 🔥 Future Projects
 
@@ -48,9 +52,9 @@ I plan to continue creating innovative projects like Meteostat to refine my skil
 - **Description:** A mobile app that helps users quickly choose a date location by offering a selection of places they’ve pre-added. It simplifies the decision-making process, so users can avoid endless discussions about where to go.
 - **Goal:** To make it publicly available, providing an easy and fun way for people to choose the perfect spot for their date without the stress of debating options.
 
-### ⛵ **BlueCrew**
-- **Description**: A mobile app that connects sailboat owners to plan trips and sail together for added safety and camaraderie. It also allows users to offer paid spots on their boats, enabling others to join their journey and experience sailing, creating a seamless way to share adventures on the sea.
-- **Goal**: To provide a platform where sailboat owners can sail confidently in groups while also offering unique opportunities for individuals to enjoy sailing experiences by joining boat trips for a fee.
+### 📍 **Kote**
+- **Description**: Kote is a platform that combines the features of review-based services like TripAdvisor and Yelp with the ability for businesses to host their own websites directly on the platform. Each business gets a personalized profile, along with the option to create a custom URL (e.g., restaurantname@kote.com) for their website. Users can discover, review, and interact with businesses, while business owners have the convenience of managing their profiles and hosting websites all in one place.
+- **Goal**: To provide a seamless platform where users can search, discover, and review local businesses, while offering business owners an easy way to host their own website, engage with customers, and gain insights into their business performance. The platform also aims to tackle the problem of “polluted” search results, where restaurant listings often display outdated or abandoned websites. Kote ensures businesses have an active, up-to-date online presence without the issue of neglected websites cluttering search results.
 
 ---
 
