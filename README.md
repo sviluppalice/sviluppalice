@@ -48,10 +48,6 @@ I want to write applications that are **efficient** and scalable but also practi
 
 ## 🔥 Future Projects
 
-### 💕 **DatePicker**
-- **Description:** A mobile app that helps users quickly choose a date location by offering a selection of places they’ve pre-added. It simplifies the decision-making process, so users can avoid endless discussions about where to go.
-- **Goal:** To make it publicly available, providing an easy and fun way for people to choose the perfect spot for their date without the stress of debating options.
-
 ### 📍 **Kote**
 - **Description**: Kote is a platform that combines the features of review-based services like TripAdvisor and Yelp with the ability for businesses to host their own websites directly on the platform. Each business gets a personalized profile, along with the option to create a custom URL (e.g., restaurantname@kote.com) for their website. Users can discover, review, and interact with businesses, while business owners have the convenience of managing their profiles and hosting websites all in one place.
 - **Goal**: To provide a seamless platform where users can search, discover, and review local businesses, while offering business owners an easy way to host their own website, engage with customers, and gain insights into their business performance. The platform also aims to tackle the problem of “polluted” search results, where restaurant listings often display outdated or abandoned websites. Kote ensures businesses have an active, up-to-date online presence without the issue of neglected websites cluttering search results.
