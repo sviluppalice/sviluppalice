@@ -38,13 +38,13 @@ I want to write applications that are **efficient** and scalable but also practi
 - **Description:** Meteostat is a full-stack weather app designed to provide real-time weather data with a seamless user experience.
 - **Goal:** To make it public as an educational resource and demonstrate my ability to build end-to-end applications.
 
-> *Technologies Used:* Django/DRF, JavaScript/React/Vite, Tailwind CSS, Recharts.
+> *Tech stack:* Django/DRF, JavaScript/React/Vite, Tailwind CSS, Recharts.
 
 ### ⛵ **BlueCrew**
 - **Description**: A mobile app that connects sailboat owners to plan trips and sail together for added safety and camaraderie. It also allows users to offer paid spots on their boats, enabling others to join their journey and experience sailing, creating a seamless way to share adventures on the sea.
 - **Goal**: To provide a platform where sailboat owners can sail confidently in groups while also offering unique opportunities for individuals to enjoy sailing experiences by joining boat trips for a fee.
   
-> *Technologies Used:* Django/DRF, TypeScript/React/Vite, Material UI.
+> *Tech stack:* Django/DRF, TypeScript/React/Vite, Material UI.
 
 ## 🔥 Future Projects
 
