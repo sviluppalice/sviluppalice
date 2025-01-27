@@ -44,7 +44,7 @@ I want to write applications that are **efficient** and scalable but also practi
 - **Description**: RankLab is a full-stack web app that allows you to analyze websites, offering the follwing analyses options: keyword, sentiment, headers, accessibility and seo comparison between two websites.
 - **Goal**: To provide a web app to easily gather all the necessary data to perform marketing operations.
   
-> *Tech stack:* Django/DRF, JavaScript/React/Vite.
+> *Tech stack:* Django/DRF, JavaScript/React/Vite, lxml, nltk, bs4, vaderSentiment, textblob, numpy.
 
 ## 🔥 Future Projects
 
