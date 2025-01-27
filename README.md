@@ -40,11 +40,11 @@ I want to write applications that are **efficient** and scalable but also practi
 
 > *Tech stack:* Django/DRF, JavaScript/React/Vite, Tailwind CSS, Recharts.
 
-### ⛵ **BlueCrew**
-- **Description**: A mobile app that connects sailboat owners to plan trips and sail together for added safety and camaraderie. It also allows users to offer paid spots on their boats, enabling others to join their journey and experience sailing, creating a seamless way to share adventures on the sea.
-- **Goal**: To provide a platform where sailboat owners can sail confidently in groups while also offering unique opportunities for individuals to enjoy sailing experiences by joining boat trips for a fee.
+### 📈 **RankLab**
+- **Description**: RankLab is a full-stack web app that allows you to analyze websites, offering the follwing analyses options: keyword, sentiment, headers, accessibility and seo comparison between two websites.
+- **Goal**: To provide a web app to easily gather all the necessary data to perform marketing operations.
   
-> *Tech stack:* Django/DRF, TypeScript/React/Vite, Material UI.
+> *Tech stack:* Django/DRF, JavaScript/React/Vite.
 
 ## 🔥 Future Projects
 
