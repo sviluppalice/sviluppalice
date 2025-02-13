@@ -7,7 +7,9 @@ I want to write applications that are **efficient** and scalable but also practi
 
 ## 💻 About Me  
 
-- 🌟 **Current Role:** Second-year student at [**ITS Prodigi**](https://www.itsprodigi.it/chi-siamo/fondazione/), [**Full Stack Developer & Integrator**](https://www.itsprodigi.it/corsi/full-stack-developer-integrator/) course, in Pisa and Back End Developer & Marketing Intern at [**Dirimo Logistika srl**](https://www.dirimo.it), in Pisa.  
+- 🌟 **Current Roles**:
+  - Second-year student at [**ITS Prodigi**](https://www.itsprodigi.it/chi-siamo/fondazione/), [**Full Stack Developer & Integrator**](https://www.itsprodigi.it/corsi/full-stack-developer-integrator/) course, in Pisa
+  - Back End Developer & Marketing Intern at [**Dirimo Logistika srl**](https://www.dirimo.it), in Pisa.
 - 🤖 **Tech Stacks:** Django/React.js, SpringBoot 3/React.js
 - 🤔 **Core Strengths:** Natural curiosity and eagerness to learn.
 
