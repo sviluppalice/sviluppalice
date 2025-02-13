@@ -16,17 +16,17 @@ I want to write applications that are **efficient** and scalable but also practi
 ## 🪨 Hard Skills
 
 ### Backend Development
-- **Languages:** Python
-- **Frameworks:** Django
+- **Languages:** Python, Java
+- **Frameworks:** Django, SpringBoot 3
 - **Packages & Tools:** Django REST Framework, Django Filter, Django CORS Headers, requests, urllib3
 
 ### Frontend Development
-- **Languages:** JavaScript, HTML/CSS
+- **Languages:** JavaScript, TypeScript, HTML/CSS
 - **Frameworks:** React.js, Vite
 - **Packages & Tools:** Tailwind CSS, Material UI
 
 ### Tools & Workflow
-- **Development Tools:** Visual Studio Code
+- **Development Tools:** Pycharm, IntelliJ Idea, Visual Studio Code
 - **Version Control:** Git/GitHub
 - **API Testing & Debugging:** Postman
 
@@ -71,6 +71,7 @@ When I'm not coding, I love:
 I'm always open to collaborating on exciting projects or discussing ideas.
 - [Email](mailto:alice.itspisa@gmail.com)
 - [Portfolio](https://github.com/sviluppalice?tab=repositories)
+- [Linkedin](https://www.linkedin.com/in/alice-i-t-99b60a346/)
 
 ---
 
