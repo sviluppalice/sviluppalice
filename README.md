@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Alice!
 
-I've been passionate about programming since I was a kid, fascinated by its power to **transform ideas into reality**. Now I'm focusing into building a career as a **full-stack developer**.
-I want to write applications that are **efficient** and scalable but also practical and **easy to use**, the kind of stuff that makes a difference and **solves everyday problems for people**.
+I've been passionate about programming since I was a kid, fascinated by its power to **transform ideas into reality**. Now I'm focusing into building a career as a **full-stack developer** and dabbling in Data Science, Machine Learning and AI Engineering.
 
 ---
 
@@ -11,7 +10,7 @@ I want to write applications that are **efficient** and scalable but also practi
   - Second-year student at [**ITS Prodigi**](https://www.itsprodigi.it/chi-siamo/fondazione/), [**Full Stack Developer & Integrator**](https://www.itsprodigi.it/corsi/full-stack-developer-integrator/) course, in Pisa
   - Back End Developer & Marketing Intern at [**Dirimo Logistika srl**](https://www.dirimo.it), in Pisa.
 - 🤖 **Tech Stacks:** Django/React.js, SpringBoot 3/React.js
-- 🤔 **Core Strengths:** Natural curiosity and eagerness to learn.
+- 💪🏼 **Core Strengths:** Natural curiosity and eagerness to learn.
 
 ---
 
@@ -76,7 +75,7 @@ When I'm not coding, I love:
 ## 📫 Let's Connect!
 
 I'm always open to collaborating on exciting projects or discussing ideas.
-- [Email](mailto:alice.itspisa@gmail.com)
+- [Email](mailto:alice.telese.dev@gmail.com)
 - [Portfolio](https://github.com/sviluppalice?tab=repositories)
 - [Linkedin](https://www.linkedin.com/in/alice-i-t-99b60a346/)
 
