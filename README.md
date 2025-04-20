@@ -18,17 +18,22 @@ I want to write applications that are **efficient** and scalable but also practi
 ## 🪨 Hard Skills
 
 ### Backend Development
-- **Languages:** Python, Java
+- **Languages:** Python, Java, SQL
 - **Frameworks:** Django, SpringBoot 3
-- **Packages & Tools:** Django REST Framework, Django Filter, Django CORS Headers, requests, urllib3
+- **Packages/Libraries & Tools:** Django REST Framework, Django Filter, Django CORS Headers, requests, urllib3, JMS Apache ActiveMQ, lombok, Spring JPA
+- **Databases:** MySQL, SQLite, MongoDB, Redis
 
 ### Frontend Development
 - **Languages:** JavaScript, TypeScript, HTML/CSS
 - **Frameworks:** React.js, Vite
 - **Packages & Tools:** Tailwind CSS, Material UI
 
+### Data Science, Machine Learning, AI Engineering
+- **Languages:** Python, Java
+- **Libraries:** scikit-learn, pandas, numpy, sentence-trasformers, tokenizers, torch, transformers, DeepLearning4J, ND4J, smile
+
 ### Tools & Workflow
-- **Development Tools:** Pycharm, IntelliJ Idea, Visual Studio Code
+- **IDEs:** Pycharm, IntelliJ Idea, Visual Studio Code
 - **Version Control:** Git/GitHub
 - **API Testing & Debugging:** Postman
 
