@@ -46,6 +46,18 @@ I've been passionate about programming since I was a kid, fascinated by its powe
 
 > *Tech stack:* Django/DRF, JavaScript/React/Vite, Tailwind CSS, Recharts.
 
+### 📚 **Library Management System**
+- **Description**: This is a production-style REST API developed using Java Spring Boot, built as part of my onboarding process in the company. The app might not be completely finished because the focus shifted according to the priorities assigned to me by my senior. The projects `Consumer`, `commonLibrary` and `recommender` are modules and microservices developed to work with this main project.
+- **Goal**: To teach myself how to develop in Spring Boot 3.
+  
+> *Tech stack:* Java 8+, Spring Boot 3, JMS, Spring Mail, Spring Data, MySQL, RESTful API, lombok.
+
+### ✨ **Recommender**
+- **Description**: This is a machine learning microservice developer for the Library Management System onboarding project. This is my first ML project ever, I knew nothing about ML when I started developing it, and I had lots of fun learning.
+- **Goal**: To select appropriate book recommendations according to user history and collective behaviour.
+
+> *Tech stack:* Python, Django/DRF, scikit-learn, sentence-transformers, BERT embeddings, NLP, DBScan clustering
+
 ### 📈 **RankLab** (soon to be public)
 - **Description**: RankLab is a machine learning full-stack web app that allows you to analyze websites, offering the follwing analyses options: keyword, sentiment, headers, accessibility and seo comparison between two websites.
 - **Goal**: To provide a web app to easily gather all the necessary data to perform marketing operations.
