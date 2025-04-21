@@ -19,7 +19,7 @@ I've been passionate about programming since I was a kid, fascinated by its powe
 ### Backend Development
 - **Languages:** Python, Java, SQL
 - **Frameworks:** Django, SpringBoot 3
-- **Packages/Libraries & Tools:** Django REST Framework, Django Filter, Django CORS Headers, requests, urllib3, JMS Apache ActiveMQ, lombok, Spring JPA
+- **Packages/Libraries & Tools:** Django REST Framework, Django Filter, Django CORS Headers, requests, urllib3, JMS Apache ActiveMQ, lombok, Spring JPA, Spring Mail
 - **Databases:** MySQL, SQLite, MongoDB, Redis
 
 ### Frontend Development
