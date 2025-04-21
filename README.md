@@ -40,17 +40,17 @@ I've been passionate about programming since I was a kid, fascinated by its powe
 
 ## ⚙️ Featured Project
 
-### 🌥️ **Meteostat**
-- **Description:** Meteostat is a full-stack weather app designed to provide real-time weather data with a seamless user experience.
+### 🌥️ **Skymet**
+- **Description:** Skymet is a full-stack weather app designed to provide real-time weather data with a seamless user experience.
 - **Goal:** To make it public as an educational resource and demonstrate my ability to build end-to-end applications.
 
 > *Tech stack:* Django/DRF, JavaScript/React/Vite, Tailwind CSS, Recharts.
 
-### 📈 **RankLab**
-- **Description**: RankLab is a full-stack web app that allows you to analyze websites, offering the follwing analyses options: keyword, sentiment, headers, accessibility and seo comparison between two websites.
+### 📈 **RankLab** (soon to be public)
+- **Description**: RankLab is a machine learning full-stack web app that allows you to analyze websites, offering the follwing analyses options: keyword, sentiment, headers, accessibility and seo comparison between two websites.
 - **Goal**: To provide a web app to easily gather all the necessary data to perform marketing operations.
   
-> *Tech stack:* Django/DRF, JavaScript/React/Vite, lxml, nltk, bs4, vaderSentiment, textblob, numpy.
+> *Tech stack:* Django/DRF, JavaScript/React/Vite, machine learning, lxml, nltk, bs4, vaderSentiment, textblob, numpy.
 
 ## 🔥 Future Projects
 
