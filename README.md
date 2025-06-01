@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Alice!
 
-I've been passionate about programming since I was a kid, fascinated by its power to **transform ideas into reality**. Now I'm focusing into building a career as a **data-driven backend developer & ML/AI engineering** and full stack development competences.
+I've been passionate about programming since I was a kid, fascinated by its power to **transform ideas into reality**. Now I'm focusing into building a career as a **data-driven backend developer & ML/AI engineer** and full stack development competences.
 
 ---
 
