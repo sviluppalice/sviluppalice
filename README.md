@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Alice!
 
-I've been passionate about programming since I was a kid, fascinated by its power to **transform ideas into reality**. Now I'm focusing into building a career as a **full-stack developer** and dabbling in Data Science, Machine Learning and AI Engineering.
+I've been passionate about programming since I was a kid, fascinated by its power to **transform ideas into reality**. Now I'm focusing into building a career as a **data-driven backend developer & ML/AI engineering** and full stack development competences.
 
 ---
 
@@ -8,7 +8,7 @@ I've been passionate about programming since I was a kid, fascinated by its powe
 
 - 🌟 **Current Roles**:
   - Second-year student at [**ITS Prodigi**](https://www.itsprodigi.it/chi-siamo/fondazione/), [**Full Stack Developer & Integrator**](https://www.itsprodigi.it/corsi/full-stack-developer-integrator/) course, in Pisa
-  - Back End Developer & Marketing Intern at [**Dirimo Logistika srl**](https://www.dirimo.it), in Pisa.
+  - Back End Development & ML Engineering Intern at [**Dirimo Logistika srl**](https://www.dirimo.it), in Pisa
 - 🤖 **Tech Stacks:** Django/React.js, SpringBoot 3/React.js
 - 💪🏼 **Core Strengths:** Natural curiosity and eagerness to learn.
 
@@ -18,9 +18,10 @@ I've been passionate about programming since I was a kid, fascinated by its powe
 
 ### Backend Development
 - **Languages:** Python, Java, SQL
-- **Frameworks:** Django, SpringBoot 3
-- **Packages/Libraries & Tools:** Django REST Framework, Django Filter, Django CORS Headers, requests, urllib3, JMS Apache ActiveMQ, lombok, Spring JPA, Spring Mail
-- **Databases:** MySQL, SQLite, MongoDB, Redis
+- **Frameworks:** Django, Flask, FastApi, SpringBoot 3
+- **Packages/Libraries & Tools:** Django REST Framework, Django Filter, Django CORS Headers, requests, urllib3, lombok, Spring JPA, Spring Mail
+- **Caching & Messaging:** ActiveMQ Artemis, Redis 
+- **Databases:** MySQL, SQLite, MongoDB
 
 ### Frontend Development
 - **Languages:** JavaScript, TypeScript, HTML/CSS
@@ -33,42 +34,43 @@ I've been passionate about programming since I was a kid, fascinated by its powe
 
 ### Tools & Workflow
 - **IDEs:** Pycharm, IntelliJ Idea, Visual Studio Code
-- **Version Control:** Git/GitHub
+- **Version Control:** Git/GitHub, BitBucket
 - **API Testing & Debugging:** Postman
+- **Kanban**: Jira
 
 ---
 
 ## ⚙️ Featured Project
 
-### 🌥️ **Skymet**
+### ⚡[PowerCast](https://github.com/sviluppalice/energy-forecasting-project)
+- **Description**: PowerCast is an ETL and machine learning pipeline that forecasts energy consumption using streaming data. It will automate data ingestion, preprocessing, model training, and monitoring to provide real-time energy usage predictions.
+- **Goal**: To build a scalable, end-to-end solution for accurate energy consumption forecasting from real-time streams.
+
+> *Tech stack:* FastAPI, pandas, scikit-learn, Kafka/RabbitMQ, AWS S3, Prometheus, Grafana
+
+### 🌥️ [Skymet](https://github.com/sviluppalice/skymet)
 - **Description:** Skymet is a full-stack weather app designed to provide real-time weather data with a seamless user experience.
 - **Goal:** To make it public as an educational resource and demonstrate my ability to build end-to-end applications.
 
-> *Tech stack:* Django/DRF, JavaScript/React/Vite, Tailwind CSS, Recharts.
+> *Tech stack:* Django, DRF, JavaScript/React/Vite, Tailwind CSS, Recharts, OpenWeatherMap API, IP-API
 
-### 📚 **Library Management System**
+### 📚 [Library Management System](https://github.com/sviluppalice/library-management-system)
 - **Description**: This is a production-style REST API developed using Java Spring Boot, built as part of my onboarding process in the company. The app might not be completely finished because the focus shifted according to the priorities assigned to me by my senior. The projects `Consumer`, `commonLibrary` and `recommender` are modules and microservices developed to work with this main project.
 - **Goal**: To teach myself how to develop in Spring Boot 3.
   
 > *Tech stack:* Java 8+, Spring Boot 3, JMS, Spring Mail, Spring Data, MySQL, RESTful API, lombok.
 
-### ✨ **Recommender**
+### ✨ [Recommender](https://github.com/sviluppalice/recommender)
 - **Description**: This is a machine learning microservice developer for the Library Management System onboarding project. This is my first ML project ever, I knew nothing about ML when I started developing it, and I had lots of fun learning.
 - **Goal**: To select appropriate book recommendations according to user history and collective behaviour.
 
 > *Tech stack:* Python, Django/DRF, scikit-learn, sentence-transformers, BERT embeddings, NLP, DBScan clustering
 
-### 📈 **RankLab** (soon to be public)
+### 📈 **RankLab** (not yet published)
 - **Description**: RankLab is a machine learning full-stack web app that allows you to analyze websites, offering the follwing analyses options: keyword, sentiment, headers, accessibility and seo comparison between two websites.
 - **Goal**: To provide a web app to easily gather all the necessary data to perform marketing operations.
   
 > *Tech stack:* Django/DRF, JavaScript/React/Vite, machine learning, lxml, nltk, bs4, vaderSentiment, textblob, numpy.
-
-## 🔥 Future Projects
-
-### 📍 **Kote**
-- **Description**: Kote is a platform that combines the features of review-based services like TripAdvisor and Yelp with the ability for businesses to host their own websites directly on the platform. Each business gets a personalized profile, along with the option to create a custom URL (e.g., restaurantname@kote.com) for their website. Users can discover, review, and interact with businesses, while business owners have the convenience of managing their profiles and hosting websites all in one place.
-- **Goal**: To provide a seamless platform where users can search, discover, and review local businesses, while offering business owners an easy way to host their own website, engage with customers, and gain insights into their business performance. The platform also aims to tackle the problem of “polluted” search results, where restaurant listings often display outdated or abandoned websites. Kote ensures businesses have an active, up-to-date online presence without the issue of neglected websites cluttering search results.
 
 ---
 
