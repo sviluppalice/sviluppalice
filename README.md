@@ -8,7 +8,6 @@ I've been passionate about programming since I was a kid, fascinated by its powe
 
 - 🌟 **Current Roles**:
   - Second-year student at [**ITS Prodigi**](https://www.itsprodigi.it/chi-siamo/fondazione/), [**Full Stack Developer & Integrator**](https://www.itsprodigi.it/corsi/full-stack-developer-integrator/) course, in Pisa
-  - Back End Development & ML Engineering Intern at [**Dirimo Logistika srl**](https://www.dirimo.it), in Pisa
 - 🤖 **Tech Stacks:** Django/React.js, SpringBoot 3/React.js
 - 💪🏼 **Core Strengths:** Natural curiosity and eagerness to learn.
 
