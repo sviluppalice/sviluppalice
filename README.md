@@ -7,7 +7,7 @@ I've been passionate about programming since I was a kid, fascinated by its powe
 ## 💻 About Me  
 
 - 🌟 **Current Roles**:
-  - Second-year student at [**ITS Prodigi**](https://www.itsprodigi.it/chi-siamo/fondazione/), [**Full Stack Developer & Integrator**](https://www.itsprodigi.it/corsi/full-stack-developer-integrator/) course, in Pisa
+  - Back End Software Engineer I, Fueling Solutions Team, Engineering Design and R&D Department, at Gilbarco Veeder Root, in Florence
 - 🤖 **Tech Stacks:** Django/React.js, SpringBoot 3/React.js
 - 💪🏼 **Core Strengths:** Natural curiosity and eagerness to learn.
 
@@ -16,7 +16,7 @@ I've been passionate about programming since I was a kid, fascinated by its powe
 ## 🪨 Hard Skills
 
 ### Backend Development
-- **Languages:** Python, Java, SQL
+- **Languages:** Python, TypeScript, Java, SQL
 - **Frameworks:** Django, Flask, FastApi, SpringBoot 3
 - **Packages/Libraries & Tools:** Django REST Framework, Django Filter, Django CORS Headers, requests, urllib3, lombok, Spring JPA, Spring Mail
 - **Caching & Messaging:** ActiveMQ Artemis, Redis 
@@ -24,7 +24,7 @@ I've been passionate about programming since I was a kid, fascinated by its powe
 
 ### Frontend Development
 - **Languages:** JavaScript, TypeScript, HTML/CSS
-- **Frameworks:** React.js, Vite
+- **Frameworks:** React.js, Vite, Angular 18+
 - **Packages & Tools:** Tailwind CSS, Material UI
 
 ### Data Science, Machine Learning, AI Engineering
@@ -40,12 +40,6 @@ I've been passionate about programming since I was a kid, fascinated by its powe
 ---
 
 ## ⚙️ Featured Project
-
-### ⚡[PowerCast](https://github.com/sviluppalice/energy-forecasting-project)
-- **Description**: PowerCast is an ETL and machine learning pipeline that forecasts energy consumption using streaming data. It will automate data ingestion, preprocessing, model training, and monitoring to provide real-time energy usage predictions.
-- **Goal**: To build a scalable, end-to-end solution for accurate energy consumption forecasting from real-time streams.
-
-> *Tech stack:* FastAPI, pandas, scikit-learn, Kafka/RabbitMQ, AWS S3, Prometheus, Grafana
 
 ### 🌥️ [Skymet](https://github.com/sviluppalice/skymet)
 - **Description:** Skymet is a full-stack weather app designed to provide real-time weather data with a seamless user experience.
