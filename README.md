@@ -1,15 +1,16 @@
 # 👋 Hi, I'm Alice!
 
-I've been passionate about programming since I was a kid, fascinated by its power to **transform ideas into reality**. Now I'm focusing into building a career as a **data-driven backend developer & ML/AI engineer** and full stack development competences.
+I love ICT and am fascinated by its power to **transform ideas into reality**.
+I’m also deeply interested in the **people side of technology** — fostering **collaboration**, **learning**, and **team growth**.
 
 ---
 
 ## 💻 About Me  
 
 - 🌟 **Current Roles**:
-  - Back End Software Engineer I, at Gilbarco Veeder Root in Florence
-    - member of the Fueling Solutions Team (Engineering - Design and R&D)
-    - member of the Fueling Solutions AI Integration Team
+  - **Back End Software Engineer I**, at **Gilbarco Veeder Root** in Florence
+    - Member of the **Fueling Solutions Team (Engineering - Design and R&D)**
+    - Member of the **Fueling Solutions AI Integration Team**
 - 🤖 **Tech Stacks:** Django/React.js, SpringBoot 3/React.js
 - 💪🏼 **Core Strengths:** Natural curiosity and eagerness to learn.
 
