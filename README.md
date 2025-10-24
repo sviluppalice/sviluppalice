@@ -7,7 +7,9 @@ I've been passionate about programming since I was a kid, fascinated by its powe
 ## 💻 About Me  
 
 - 🌟 **Current Roles**:
-  - Back End Software Engineer I, Fueling Solutions Team, Engineering Design and R&D Department, at Gilbarco Veeder Root, in Florence
+  - Back End Software Engineer I, at Gilbarco Veeder Root in Florence
+    - member of the Fueling Solutions Team (Engineering - Design and R&D)
+    - member of the Fueling Solutions AI Integration Team
 - 🤖 **Tech Stacks:** Django/React.js, SpringBoot 3/React.js
 - 💪🏼 **Core Strengths:** Natural curiosity and eagerness to learn.
 
