@@ -7,10 +7,7 @@ I’m also deeply interested in the **people side of technology** — fostering 
 
 ## 💻 About Me  
 
-- 🌟 **Current Roles**:
-  - **Back End Software Engineer I**, at **Gilbarco Veeder Root** in Florence
-    - Member of the **Fueling Solutions Team (Engineering - Design and R&D)**
-    - Member of the **Fueling Solutions AI Integration Team**
+- 🌟 **LinkedIn Profile:** [Alice I. Telese](https://www.linkedin.com/in/sviluppalice/)
 - 🤖 **Tech Stacks:** Django/React.js, SpringBoot 3/React.js
 - 💪🏼 **Core Strengths:** Natural curiosity and eagerness to learn.
 
