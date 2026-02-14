@@ -53,17 +53,11 @@ I’m also deeply interested in the **people side of technology** — fostering 
   
 > *Tech stack:* Java 8+, Spring Boot 3, JMS, Spring Mail, Spring Data, MySQL, RESTful API, lombok.
 
-### ✨ [Recommender](https://github.com/sviluppalice/recommender)
+### ✨ [Book Recommender](https://github.com/sviluppalice/recommender)
 - **Description**: This is a machine learning microservice developer for the Library Management System onboarding project. This is my first ML project ever, I knew nothing about ML when I started developing it, and I had lots of fun learning.
 - **Goal**: To select appropriate book recommendations according to user history and collective behaviour.
 
 > *Tech stack:* Python, Django/DRF, scikit-learn, sentence-transformers, BERT embeddings, NLP, DBScan clustering
-
-### 📈 **RankLab** (not yet published)
-- **Description**: RankLab is a machine learning full-stack web app that allows you to analyze websites, offering the follwing analyses options: keyword, sentiment, headers, accessibility and seo comparison between two websites.
-- **Goal**: To provide a web app to easily gather all the necessary data to perform marketing operations.
-  
-> *Tech stack:* Django/DRF, JavaScript/React/Vite, machine learning, lxml, nltk, bs4, vaderSentiment, textblob, numpy.
 
 ---
 
@@ -84,15 +78,4 @@ When I'm not coding, I love:
 I'm always open to collaborating on exciting projects or discussing ideas.
 - [Email](mailto:alice.telese.dev@gmail.com)
 - [Portfolio](https://github.com/sviluppalice?tab=repositories)
-- [Linkedin](https://www.linkedin.com/in/alice-i-t-99b60a346/)
-
----
-
-## 💡 What I Bring to the Table
-
-- 🌱 **Eager to Learn and Apply:** As a student, I’m excited to bring what I’ve learned from my studies at ITS Prodigi and personal projects into real-world applications while continuing to grow professionally.
-- 🛠️ **Practical Skills in Action:** I have a foundation in frameworks like Django and React, and I can't wait to apply these skills to build efficient functional software alongside experienced professionals.
-- 🌟 **Fresh Perspective:** I approach challenges with curiosity and a willingness to experiment, trying to find a synthesis between creative solutions and practical outcomes.
-- 🤝 **Team Player in Progress:** I thrive when collaborating with others — I enjoy learning from seniors, exchanging ideas and contributing to a positive team environment.
-
-Let’s build something amazing together!
+- [Linkedin](https://www.linkedin.com/in/sviluppalice/)
